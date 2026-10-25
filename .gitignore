@@ -1,5 +1,7 @@
 data/
 output/
+# uv / virtual environment (regenerable from pyproject.toml + uv.lock)
+.venv/
 .claude/
 hypersim/
 checkpoints/
